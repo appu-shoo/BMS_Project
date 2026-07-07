@@ -72,7 +72,7 @@ Firebase / SQLite (data storage)
 External APIs (weather, maps, etc.)
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/VEDASHREE-123/Embedded_Rockers.git
+git clone https://github.com/appu-shoo/BMS_Project.git
 cd Embedded_Rockers
 2️⃣ Setup Backend
 cd backend
