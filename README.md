@@ -81,7 +81,7 @@ This creates a unified, intelligent, and evolving interface that works across mu
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/VEDASHREE-123/Embedded_Rockers.git
+git clone https://github.com/appu-shoo/BMS_Project.git
 cd Embedded_Rockers
 ```
 
